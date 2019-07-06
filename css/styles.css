@@ -6,7 +6,7 @@
 .container{
   border-style: ridge;
 
-  display: inline-block;
+  display: flow-root;
   box-sizing: border-box;
   background-color: #A5B8D8;
 }
@@ -26,13 +26,14 @@
   border-style: solid;
   text-align: center;
   float:right;
-.about{
+.about {
   display: block;
   background-image: url("https://kelley.iu.edu/images/bloomington/programs/undergrad/advising/ksb-ugrad-graduation-topimage-768x450.jpg");
   text-align: center;
   text-decoration: none;
 }
 .experience{
+  font-family: fantasy;
 
 }
 .reason{
@@ -55,6 +56,7 @@ h2{
   text-align: justify;
   font-weight: bold;
   background-color: #2B0707;
+}
 }
 @@media only screen and (min-width:768px) {
 
