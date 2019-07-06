@@ -6,6 +6,7 @@
 .container{
   border-style: ridge;
   background-color: #A68989;
+  display: inline-block;
 }
 .skill{
   border-style: groove;
@@ -13,6 +14,8 @@
 }
 .background{
   background-color: #9E1F1F;
+  text-align: center;
+  background-image: url("https://marketingweek.imgix.net/content/uploads/2017/05/12103909/Coding-body-image-.jpg?auto=compress,format,&crop=faces,entropy,edges&fit=crop&q=60&w=750&h=460");
 }
 .column{
   border-style: double;
