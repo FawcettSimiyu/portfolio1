@@ -57,7 +57,9 @@ h2{
   text-align: justify;
   font-weight: bold;
   background-color: #2B0707;
-}
+.social {
+  text-align: center;
+  text-decoration: none;
 }
 @@media only screen and (min-width:768px) {
 
