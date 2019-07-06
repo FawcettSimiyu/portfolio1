@@ -23,6 +23,7 @@
   border-style: double;
   text-align: center;
   display: grid;
+  font-family: verdana,sans-serif;
 }
 .projects{
   border-style: solid;
