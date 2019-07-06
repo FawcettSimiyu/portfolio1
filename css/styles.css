@@ -5,7 +5,6 @@
 }
 .container{
   border-style: ridge;
-
   display: flow-root;
   box-sizing: border-box;
   background-color: #A5B8D8;
@@ -21,6 +20,8 @@
 }
 .column{
   border-style: double;
+  text-align: center;
+  display: grid;
 }
 .projects{
   border-style: solid;
