@@ -5,9 +5,10 @@
 }
 .container{
   border-style: ridge;
-  background-color: #A68989;
+
   display: inline-block;
   box-sizing: border-box;
+  background-color: #A5B8D8;
 }
 .skill{
   border-style: groove;
@@ -24,7 +25,7 @@
 .projects{
   border-style: solid;
   text-align: center;
-}
+  float:right;
 .about{
   display: block;
   background-image: url("https://kelley.iu.edu/images/bloomington/programs/undergrad/advising/ksb-ugrad-graduation-topimage-768x450.jpg");
@@ -51,8 +52,13 @@ h2{
   float: none;
 }
 .footer{
-  text-align: center;
+  text-align: justify;
+  font-weight: bold;
+  background-color: #2B0707;
 }
 @@media only screen and (min-width:768px) {
 
+}
+img {
+  float: flex;
 }
