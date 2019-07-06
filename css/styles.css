@@ -7,6 +7,7 @@
   border-style: ridge;
   background-color: #A68989;
   display: inline-block;
+  box-sizing: border-box;
 }
 .skill{
   border-style: groove;
@@ -23,10 +24,12 @@
 .projects{
   border-style: solid;
   text-align: center;
-
 }
 .about{
   display: block;
+  background-image: url("https://kelley.iu.edu/images/bloomington/programs/undergrad/advising/ksb-ugrad-graduation-topimage-768x450.jpg");
+  text-align: center;
+  text-decoration: none;
 }
 .experience{
 
@@ -37,6 +40,7 @@
 }
 .interest{
   border-style:outset;
+  background-image: url("https://journocode.com/wp-content/uploads/2016/06/htmlCssJS-1140x515.jpg");
 
 }
 h2{
