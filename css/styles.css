@@ -3,23 +3,27 @@
   font-weight: bold;
   background-image: url("https://images.yourstory.com/cs/wordpress/2018/03/coding-job.png");
 }
-.container
+.container{
+  border-style: ridge;
+  background-color: #A68989;
 }
 .skill{
   border-style: groove;
   background-image: url("https://cdn.i-scmp.com/sites/default/files/styles/1200x800/public/d8/images/methode/2019/03/16/35e584f4-46f3-11e9-b5dc-9921d5eb8a6d_image_hires_194000.JPG?itok=RiqWzzUS&v=1552736407");
 }
 .background{
-
+  background-color: #9E1F1F;
 }
 .column{
-
+  border-style: double;
 }
 .projects{
+  border-style: solid;
+  text-align: center;
 
 }
 .about{
-
+  display: block;
 }
 .experience{
 
@@ -34,7 +38,11 @@
 }
 h2{
   text-align: center;
+  font-style: fantasy;
 }
 .wrap{
   float: none;
+}
+.footer{
+  text-align: center;
 }
