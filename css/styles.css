@@ -1,11 +1,12 @@
 .header {
   text-align: center;
+  margin-top: 0;
   font-weight: bold;
   background-image: url("https://images.yourstory.com/cs/wordpress/2018/03/coding-job.png");
 }
 .container{
   border-style: ridge;
-
+  margin-bottom: auto;
   display: flow-root;
   box-sizing: border-box;
   background-color: #A5B8D8;
