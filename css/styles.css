@@ -5,6 +5,7 @@
 }
 .container{
   border-style: ridge;
+
   display: flow-root;
   box-sizing: border-box;
   background-color: #A5B8D8;
@@ -17,7 +18,7 @@
 .background{
   background-color: #9E1F1F;
   text-align: center;
-  background-image: url("https://marketingweek.imgix.net/content/uploads/2017/05/12103909/Coding-body-image-.jpg?auto=compress,format,&crop=faces,entropy,edges&fit=crop&q=60&w=750&h=460");
+  background-image: url("https://sketchcasts.s3.amazonaws.com/episodes/55/thumbnail/coding-a-background-animation.png");
 }
 .column{
   border-style: double;
