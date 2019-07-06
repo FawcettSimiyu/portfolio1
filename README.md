@@ -18,3 +18,5 @@ This project uses the MIT lICENSE
 Copyright (c) 2019. No other contributors.
 ## View live
 URL:https://blackbad1.github.io/portfolio1/
+##Copyright
+Can be used as pleased.No restrictions.
